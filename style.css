@@ -23,7 +23,7 @@ h1 {
 	color: #FC3062;
 	font-size: clamp(3em, 4em, 5em);
 }
-h2 {
+button {
 	margin-top: 0px;
 	margin-bottom: 15px;
 	color: #FB557F;
